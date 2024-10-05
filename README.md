@@ -1,6 +1,6 @@
 ---
-description: Welcome to ChemiStar!
 icon: hand-wave
+description: Welcome to ChemiStar!
 ---
 
 # Welcome
@@ -9,12 +9,8 @@ Welcome to ChemiStar! It's a C# library that allows you to query the periodic ta
 
 ## Installation
 
-This library is very easy to install. It's available at [NuGet](https://www.nuget.org/packages/SpecProbe/). Just follow these steps:
+You can follow the installation and upgrade steps by clicking on the link below to get the full instructions:
 
-1. Open your project file (`.csproj` or `.fsproj`)
-2. Place the `PackageReference` line on a property group like so:
-   * `<PackageReference Include="ChemiStar" Version="x.x.x" />`
-   * ...where `Version` is the current version of the library
-3. Run a package restore using `dotnet restore`
-
-If you follow these steps correctly, you should be able to use this library's functions.
+{% content-ref url="https://app.gitbook.com/s/Id4bob6wnHvpX4zbVVtI/csharp-libraries/installation-and-upgrade" %}
+[Installation and Upgrade](https://app.gitbook.com/s/Id4bob6wnHvpX4zbVVtI/csharp-libraries/installation-and-upgrade)
+{% endcontent-ref %}
