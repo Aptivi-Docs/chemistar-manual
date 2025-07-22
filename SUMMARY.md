@@ -8,6 +8,6 @@
 
 ***
 
-* [Report an issue](https://github.com/Aptivi/ChemiStar/issues/new)
-* [Source code](https://github.com/Aptivi/ChemiStar/)
+* [Report an issue](https://gitlab.com/aptivi/main/ChemiStar/-/issues)
+* [Source code](https://gitlab.com/aptivi/main/ChemiStar)
 * [API Reference](https://aptivi.github.io/ChemiStar/)

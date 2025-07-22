@@ -1,11 +1,11 @@
 ---
-icon: hand-wave
 description: Welcome to ChemiStar!
+icon: hand-wave
 ---
 
 # Welcome
 
-Welcome to ChemiStar! It's a C# library that allows you to query the periodic table in any .NET application to get details about a chemical substance quickly. To use this library, go to any page in the left side of the screen.
+ChemiStar is a C# library that allows you to query the periodic table in any .NET application to get details about a chemical substance quickly. To use this library, go to any page in the left side of the screen.
 
 ## Installation
 
